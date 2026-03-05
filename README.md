@@ -18,7 +18,7 @@ Contoh pola masukan:
 55
 90
 
-```
+```5
 
 ### Tugas 1 (nilai_01.c, 30 points)
 
